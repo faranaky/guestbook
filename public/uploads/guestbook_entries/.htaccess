@@ -1,0 +1,4 @@
+<Files ^(*.jpeg|*.jpg|*.png|*.gif)>
+   order deny,allow
+   deny from all
+</Files>
